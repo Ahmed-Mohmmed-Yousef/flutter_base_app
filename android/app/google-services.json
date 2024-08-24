@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "803444961225",
+    "firebase_url": "https://imessagesapp.firebaseio.com",
+    "project_id": "imessagesapp",
+    "storage_bucket": "imessagesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803444961225:android:6f892ca922be3a056f8218",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803444961225-l04m8r1ci2int1m4m32ubk7fs226ehlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ8ZLX0l_wfxsUemLLM-GIrc1_d3PekXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803444961225-l04m8r1ci2int1m4m32ubk7fs226ehlp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "803444961225-m7fj35u7notrl5u000qim2pgg3t8d44c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.my-project.iMessagesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
